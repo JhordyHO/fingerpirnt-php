@@ -1,0 +1,6 @@
+{
+    "name": "root/html",
+    "require": {
+        "catfan/Medoo": "^1.4"
+    }
+}
